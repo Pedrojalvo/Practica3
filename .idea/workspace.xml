@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="643349fe-63a6-445c-96f4-5921e5471929" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dominio/Matematicas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dominio/Matematicas.java" afterDir="false" />
-    </list>
+    <list default="true" id="643349fe-63a6-445c-96f4-5921e5471929" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,7 +55,7 @@
       <updated>1709663037184</updated>
       <workItem from="1709663040067" duration="156000" />
       <workItem from="1709713008556" duration="2085000" />
-      <workItem from="1709828393415" duration="2192000" />
+      <workItem from="1709828393415" duration="2427000" />
     </task>
     <servers />
   </component>
