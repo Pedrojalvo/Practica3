@@ -1,1 +1,2 @@
-# Practica3
+
+Este programa implementa una simulación de Montecarlo para estimar el valor de Pi, utilizando los metodos lambda. La simulación de Montecarlo es una técnica numérica que utiliza el muestreo aleatorio para obtener resultados numéricos. En este caso, el programa genera un gran número de puntos aleatorios dentro de un cuadrado y cuenta cuántos de estos puntos caen dentro de un círculo inscrito en el cuadrado.
